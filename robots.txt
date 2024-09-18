@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://reoageni.github.io/sitemap/sitemap.txt
